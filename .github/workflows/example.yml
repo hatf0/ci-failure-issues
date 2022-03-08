@@ -1,3 +1,4 @@
+name: Example
 on:
   workflow_dispatch:
   
